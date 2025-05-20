@@ -25,7 +25,7 @@ public class HomeController {
         return "login";
     }
 
-//    // Mostrar el formulario de registro
+//    Mostrar el formulario de registro
 //    @GetMapping("/register")
 //    public String showRegisterForm() {
 //        return "register";  // Retorna la página de registro
